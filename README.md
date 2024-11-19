@@ -61,4 +61,7 @@ python SMIpro2.py
 python SMIshow.py
 ```
 
+## 𝑅𝑒𝑠𝑢𝑙𝑡𝑠
+
+![ 2024-11-19 234814.png](https://s2.loli.net/2024/11/19/MEoRvrmcexIOHlV.png)
 
